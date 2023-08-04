@@ -1,1 +1,1 @@
-需要下载gmssl库
+需要下载gmssl库和hashlib库
