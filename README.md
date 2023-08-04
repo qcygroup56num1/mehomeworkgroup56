@@ -1,1 +1,4 @@
-# mehomeworkgroup56
+老师好，
+Project文件夹中为对应的代码，部分代码运行需要提前安装第三方库已经在不同文件夹的readme.txt文件夹中标出。
+汇总报告为所有project的汇总，报告中已经在目录中标明了具体project的页数。
+谢谢老师
